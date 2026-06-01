@@ -50,5 +50,3 @@ Maven
 Docker
 
 Docker Hub (Repositório Remoto)
-
-Desenvolvido por Lucas Barros (lucasbparada).
